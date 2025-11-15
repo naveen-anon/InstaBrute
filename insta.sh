@@ -45,7 +45,7 @@ banner() {
 printf "\e[1;92m     _                                      \e[0m\n"
 printf "\e[1;92m _  | | https://www.youtube.com/c/naveen_anon    \e[0m\n"
 printf "\e[1;92m( \ | | ____    ___  _| |_  _____           \e[0m\n"
-printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ |  Ha3MrX  \e[0m\n"
+printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ |  naveen_anon \e[0m\n"
 printf "\e[1;77m(_/ | || | | ||___ |  | |_ / ___ |  _____   \e[0m\n"
 printf "\e[1;77m    |_||_| |_|(___/    \__)\_____| (_____)  \e[0m\n"
 printf "\n"
